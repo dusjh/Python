@@ -18,7 +18,7 @@ p3 = Person()
 print("인스턴스 개수: {0}".format(Person.num_person))
 
 # 런타임(실행시간) 시에 멤버 변수 추가(동적 언어는 가능)
-# 디자인타임(코딩, 개발시간)
+# <-> 디자인타임(코딩, 개발시간)
 Person.title = "new title"
 print(Person.title)
 print(p1.title)
