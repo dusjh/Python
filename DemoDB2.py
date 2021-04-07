@@ -1,4 +1,5 @@
 # DemoDB2.py
+# 커밋
 
 # SQLite를 사용하는 데모(로컬 데이터베이스)
 import sqlite3
